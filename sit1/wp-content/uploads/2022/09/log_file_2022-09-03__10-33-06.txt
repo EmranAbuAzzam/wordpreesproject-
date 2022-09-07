@@ -1,0 +1,1219 @@
+
+---Downloaded files---
+The import files for: Auto were successfully downloaded!
+MAX EXECUTION TIME = 120
+Files info:
+Site URL = http://127.0.0.1/sit1
+Data file = C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\sit1/wp-content/uploads/2022/09/demo-content-import-file_2022-09-03__10-33-06.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 1
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 2
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 3
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 4
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 5
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 6
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 7
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 8
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 9
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 10
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 11
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 12
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 13
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 14
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 15
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 16
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 17
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+[ERROR] Failed to import "9jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/9.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 18
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 19
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 20
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 21
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 22
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 23
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 24
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 25
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 26
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 27
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 28
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 29
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 30
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+[ERROR] Failed to import "9jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/9.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 31
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+[ERROR] Failed to import "9jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/9.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 32
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 33
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+[ERROR] Failed to import "9jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/9.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 34
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+[ERROR] Failed to import "9jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/9.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 35
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 36
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 37
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 38
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 39
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 40
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 41
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 42
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 43
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 44
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 45
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 46
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 47
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 48
+[ERROR] Failed to import "logopng" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/logo.png
+[ERROR] Failed to import "1jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/1.jpg
+[ERROR] Failed to import "2jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/2.jpg
+[ERROR] Failed to import "3jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/3.jpg
+[ERROR] Failed to import "4jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/4.jpg
+[ERROR] Failed to import "5jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/5.jpg
+[ERROR] Failed to import "6jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/6.jpg
+[ERROR] Failed to import "7jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/7.jpg
+[ERROR] Failed to import "8jpg" (Media)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/auto/images/8.jpg
+
